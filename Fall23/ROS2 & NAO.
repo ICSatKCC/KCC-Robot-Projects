@@ -1,0 +1,13 @@
+What I have learned thus far trying to get ROS2 working:
+1)Getting ROS2 installed is super easy
+2)Using ROS2 is a little more annoying to use as everytime you start up a terminal you have to source ROS2 before you can actually run any commands(but as soon as you 
+open a terminal ros2 starts up so you dont have to create a workspace like ros1)
+3)You can SSH to the NAO bots. Very cool.
+
+What can you do once you are successfully SSH'd to NAO?
+-If the NAO bot doesn't also have ROS2 installed on it then essentially nothing. Sorry :(
+
+I have been attempting to fix this issue by installing ROS2 on the NAO bots. I was trying to do this by using the NAO's packet manager which should be, according to 
+softbanks, called emerge. This is where I start having issues. Packet managers basically helps to install new packages and are, to my understanding, needed to get ROS2 onto 
+NAO. If you are SSH'd onto NAO you can check which packet manager the robot has by using the comand 'which'(e.x.: which emerge). I keep getting the message: No emerge in. Which
+means I am having many of issues trying to get ROS2 on NAO but I have requested backup(Lisa) abd hopefully all will be fixed soon. Will update.
