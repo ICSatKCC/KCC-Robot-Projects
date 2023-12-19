@@ -1,0 +1,33 @@
+Goals:
+This semester I worked on getting ROS integrated with the NAO bots.
+
+Process:
+In order to achieve this I started by downloading a VM (virtual machine) onto my laptop. The purpose of this was to have the 
+ability to use a different operating system on my laptop since my laptop uses windows and a linux system is more compatible 
+with ROS. Once I had the VM successfully installed I moved onto getting ROS installed onto the VM and the necessary libraries 
+that the NAO bot requires. I got ROS installed but ran into many issues. One of which was the fact that ROS uses many 
+different distributions which are tailored for different purposes. The ones that I needed for the NAO bots became outdated 
+soon after I got it installed and so I had to delete and reinstall different distributions until I found out which one worked 
+best. Once I found a distribution that I thought worked I was told by my supervisor that I wouldn’t be able to download all
+of the necessary libraries since some of them are outdated. That’s when my supervisor suggested that instead of using ROS we 
+use the newest version of if, called: ROS2. The process for getting ROS2 installed was almost identical to getting ROS, so it 
+didn’t take me much time to get it on my VM. I did have some slight problems with the distributions but it did not take me 
+nearly as much time to find the right one this time. Then I started to download everything that was necessary for the NAO bots
+by following the guidelines my supervisor gave me. I had run into some problems while doing so as I had run out of space more
+than once since the space you have on your VM is only whatever amount you allow it when creating it. Also it is good to note 
+that it is so hard to add more storage onto a VM after it's already been created so the easiest way to resolve this issue was 
+to delete and restart the entire process from the beginning. This happened a couple of times before I got annoyed and just 
+gave my VM 1TB of storage. After this I was able to connect to the NAO bots via SSH and I was able to turn off NAO’s autonomous 
+life. But unfortunately this is where my progress stalled. I wasn’t able to launch certain packages that I had built in my 
+workspace that was necessary for making the NAO bots actually move around and speak. I also was not able to figure out why I 
+wasn’t able to launch certain packages. :(
+
+Result:
+I got ROS2 successfully installed and I was able to make sure that my connection to NAO was legit by having different laptops
+connect to one another and talk to each other. I also got NAO to become lifeless and learned a lot about what ROS2 is and 
+how it works(sorta). Ultimately I couldn’t figure out how to fix certain issues with ROS2 and thus couldn’t get NAO to walk 
+around or do anything fancy. 
+
+For the Next People:
+If you want to work on ROS2 I suggest following the GitHub Repo for ROS. Since ROS2 is very new, people are working on it in
+real time so you can check to see updates and if any distributions have been abandoned.
