@@ -1,0 +1,22 @@
+SCI 295 - NAO robots and PythonSDK
+Justin Kugiyama
+
+Goal:
+My initial goal for this semester was to be able to download all the necessary software to be able to operate the ROS on my personal. Then, upon downloading the software, I wanted to make the robots be able to potentially pick something of the ground.
+A little past midway through the semester, my goal for downloading ROS on my personal computer was deemed unachievable and I began to lower my expectations to just allow for the robot to walk.
+
+Material Resources:
+Aldebaran, hitlabnz on YouTube, & ROS
+
+
+Process:
+At the start of the semester, I initially planned to download the necessary software for ROS on my personal computer. I started the tedious process, and hit a roadblock when I began downloading the necessary packages for chocolatey. My computer was getting 
+confused on whether I was an administrator or not. It could be that my personal email is the main account on my PC, and that I was tring to download the software through my UH acocunt. I tried resolving this issue by using my personal email, but the same
+message kept appearing that I could not access the packages. Thankfully, Lisa advised us to pivot over to primarily using PythonSDK which was a lot easier to access and use to interact with the robots. The codes I observed and worked with revolved around 
+walking and hip mobility. 
+
+Conclusion:
+Prior to engaging in this project, I was not the most interested in robotics and felt it would be good to step out my comfort zone. Throughout the semester, I felt completely stuck and did not make any process until the last month or two. It was demoralizing
+hitting roadblock after roadblock up to the point that I was debating on withdrawing from the course. It was at the same time that Lisa directed us over to PythonSDK, and reassured me, that this project was not going to be easy and that I should not feel
+discouraged. Despite the difficulties and struggles, I feel that this semester was a success considering that I basically could not do anything for half the semester. This project helped me to get a better understanding of the process of downloading software 
+and strengthening my teamwork/communication skills. I am glad that I was able to finish the class, as well as see my group members succeed with their codes.
