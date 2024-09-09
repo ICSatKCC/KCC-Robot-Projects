@@ -7,6 +7,8 @@ Please upload your deliverables (reports, literature reviews, posters, code, etc
 
 ## Links:
 
+### NAO:
+- United Robotics NAO developer documentation: [https://unitedrobotics.group/en/robots/nao/documentation]
 - United Robotics main help site for NAOs: [https://support.unitedrobotics.group/en/support/home]
    - NAO Downloads: [https://support.unitedrobotics.group/en/support/solutions/articles/80001018812-nao-6-downloads]
 - Python SDK tutorials for NAO: [http://doc.aldebaran.com/2-8/dev/python/tutorials.html]
@@ -15,5 +17,6 @@ Please upload your deliverables (reports, literature reviews, posters, code, etc
 - Python 2.7 beginner's tutorial: [https://python.readthedocs.io/en/v2.7.2/tutorial/index.html]
 
 ### Pepper:
+- United Robotics Pepper developer documentation: [https://unitedrobotics.group/en/robots/pepper/documentation]
 - Pepper 2.9 Android Studio, Android tablet instructions [https://qisdk.softbankrobotics.com/sdk/doc/pepper-sdk/index.html]
 - Pepper 2.5 SDKs [https://support.unitedrobotics.group/en/support/solutions/articles/80001024221-pepper-2-5-downloads]
