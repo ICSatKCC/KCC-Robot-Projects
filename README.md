@@ -1,13 +1,15 @@
 # KCC-Robot-Projects
 Student robot projects
 
-## Fall 2024
+## Spring 2025
 
-Please upload your deliverables (reports, literature reviews, posters, code, etc) to the Fall 2024 folder in this repository
+Please upload your deliverables (reports, literature reviews, posters, code, etc) to the Spring 2025 folder in this repository
 
 ## Links:
 
 ### NAO:
+- Webots: [https://cyberbotics.com/] **Suggested method**
+- Expert level: Isaac Sim [https://developer.nvidia.com/isaac/sim]
 - United Robotics NAO developer documentation: [https://unitedrobotics.group/en/robots/nao/documentation]
 - United Robotics main help site for NAOs: [https://support.unitedrobotics.group/en/support/home]
    - NAO Downloads: [https://support.unitedrobotics.group/en/support/solutions/articles/80001018812-nao-6-downloads]
